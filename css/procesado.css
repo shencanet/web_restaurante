@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+body {
+  
+    
+  
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding:.4rem 1.4rem;
+
+    
+  
+  }
+  .centrar {
+    font-family: Nunito, sans-serif;
+    position: relative;
+    height: 300px;
+    font-size:larger;
+    font-weight: bolder;
+    
+  }
+
+
+
